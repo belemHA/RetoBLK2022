@@ -13,11 +13,14 @@ import {MatButtonModule} from '@angular/material/button';
 import { AngularFireAuthModule } from '@angular/fire/compat/auth';
 import { environment } from '../environments/environment';
 import { AngularFireModule } from '@angular/fire/compat';
+import { HttpClientModule } from "@angular/common/http";
+import { FormApiComponent } from './components/form-api/form-api.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    FormComponent
+    FormComponent,
+    FormApiComponent
   ],
   imports: [
     BrowserModule,
@@ -30,7 +33,8 @@ import { AngularFireModule } from '@angular/fire/compat';
     MatIconModule,
     MatButtonModule,
     AngularFireModule.initializeApp(environment.firebaseConfig),
-    AngularFireAuthModule
+    AngularFireAuthModule, 
+    HttpClientModule,
 
   ],
   providers: [],
