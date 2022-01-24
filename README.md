@@ -13,12 +13,12 @@ Este proyecto tiene la finalidad solucionar la problemática de Actualmente nues
 2. Prototipo de baja fidelidad
 https://www.figma.com/file/WuY6svf3tpRThbA9UF7TjM/Reto-BLK?node-id=0%3A1
 
-Propuesta Uno 
+[Propuesta Uno] https://github.com/belemHA/RetoBLK2022/blob/main/propustauno.png
 
 Este prototipo es por el que optamos para brindar la funcionalidad y vista de la paginas diferente páginas que conforman nuestra aplicación.
 
 Prototipo Final
-Propuesta dos
+[Propuesta dos] https://github.com/belemHA/RetoBLK2022/blob/main/propustaDos.png
 ![image](https://www.figma.com/file/WuY6svf3tpRThbA9UF7TjM/Reto-BLK?node-id=0%3A1)
 
 3. Historias de usuario
