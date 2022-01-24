@@ -10,6 +10,7 @@ Es...
 
 2. Prototipo de baja fidelidad
 
+https://aresrichmedia.com/wp-content/uploads/2018/06/prototipo4.jpg
 
 Listado de problemas detectados a traves de tests de usabilidad:
 
