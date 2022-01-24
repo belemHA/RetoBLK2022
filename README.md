@@ -1,50 +1,42 @@
 # RetoBLK2022
- Squad 4- Ojos
+Squad 4- Ojos
 Anita Aguilar
-Dani Torrel 
+Colette Ordoñez
+Daniela Torrel 
 Angelica Venta 
 Belem Hernandez
 
 1. BlackRock
-Es...
+Este proyecto tiene la finalidad solucionar la problemática de Actualmente nuestros clientes no están aprovechando nuestros recursos de educación financiera en nuestra pagina web de BlackRock, así queremos animar a los clientes para tomar una prueba y empezar los mini-cursos de educación. Tendremos una 
+
 
 2. Prototipo de baja fidelidad
+https://www.figma.com/file/WuY6svf3tpRThbA9UF7TjM/Reto-BLK?node-id=0%3A1
 
-https://aresrichmedia.com/wp-content/uploads/2018/06/prototipo4.jpg
+Propuesta Uno 
 
-Listado de problemas detectados a traves de tests de usabilidad:
-
--Con el prototipo inicial, se tenia el objetivo de mostrar una galeria de pokemones con el cual al momento de tener la imagen de cada uno, al dar click se mostrara la informacion de cada uno, sin embargo, encontramos la problematica de la configuracion de distintas pantallas, lo que hacia mayor tiempo de diseño, por lo que se opto por dejarlo en dos tarjetas para lograr el responsive
-
-Screenshot Screenshot
-
-Este prototipo es por el que optamos para brindar la funcionalidad y vista de la pagina
+Este prototipo es por el que optamos para brindar la funcionalidad y vista de la paginas diferente páginas que conforman nuestra aplicación.
 
 Prototipo Final
-Screenshot
-![image](https://user-images.githubusercontent.com/68892787/150736023-16d337e1-28c6-40fc-8a71-b6bd62e65398.png)
+Propuesta dos
+![image](https://www.figma.com/file/WuY6svf3tpRThbA9UF7TjM/Reto-BLK?node-id=0%3A1)
 
 3. Historias de usuario
 *Historia de Usuario 1: S
 
-YO COMO usuario QUIERO QUE la pagina contenga los datos que considero mas relevantes de los cursos PARA .
+YO COMO usuario QUIERO QUE 
 
 
 
 *Historia de Usuario 2: 
-YO COMO usuario, QUIERO filtrar los tipos de pokemon, PARA poder conocerlos o rev
-
-Criterios de aceptación: Se muestra información de búsqueda en pantalla, (botones, cuadros de texto para búsqueda),
-
-Definicion de terminado: Trabajar sobre el archivo data para comenzar a obtener la informacion de DATA. Se han subido los cambios a git (enviando al master), se aprueban PR.
-
-*Historia de Usuario 3: V
+YO COMO usuario, QUIERO 
 
 
 
 
 
-*Historia de Usuario 4: Visualizacion de galeria de imagenes pokemones.
+
+*Historia de Usuario 4: Visualizacion de la página 
 
 YO COMO usuario de  QUIERO 
 
