@@ -1,12 +1,15 @@
 # RetoBLK2022
+ Squad 4- Ojos
+Ana 
+Dani Torrel 
+Angy Venta ,
+Belem Hernandez
 
-Lidia Escoto, Belem Hernandez DL-7
-
-1. DATA LOVERS
-Pokemon web es una página de consulta de datos relevantes sobre pokemones. El usuario podra realizar una busqueda sobre un pokemon ingresando el nombre o numero si es que ya se conoce previamente, o de igual forma puede acceder a la informacion de los pokemones con la barra de busqueda que se muestra en el menu principal, con el que pueden filtrar ya sea por el tipo de pokemon que se desea, y con este mismo el listado de los pokemones que pertenecen a ese tipo. La informacion se muestra en dos tarjetas por pokemon, una contiene la imagen, tipo y generacion a la que pertenece el pokemon seleccionado, y la ultima, muestra la informacion sobre su descripcion, debilidades, fortalezas, etc. El proposito de la pagina es que el usuario pueda acceder a las caracteristicas de los pokemones para conocerlos, jugar, etc, segun sea el caso pero manteniendo el acceso a sus caracteristicas en cualquier momento.
+1. BlackRock
+Es...
 
 2. Prototipo de baja fidelidad
-Screenshot Screenshot
+
 
 Listado de problemas detectados a traves de tests de usabilidad:
 
@@ -51,4 +54,5 @@ Criterios de aceptación: El usuario podrá ver 10 imágenes de pokemones al aza
 Definición de terminado: Las imágenes serán todas tomadas de la data, la informacion de cada pokemon es mostrada en un mismo contenedor, se puede subir o bajar con scroll, Se mantiene los tamaños de contenedores para evitar el crecimiento de los mismos en pagina al agregar mas informacion, Los test unitarios estan completos.
 
 Links:
-*Trello https://trello.com/b/MaxrWwju/data-lovers
+*Trello ***************************************************
+https://trello.com/invite/b/ZVahCLVu/6bdbcab4cb93bdc6146bacfcc6039cd7/talent-fest
