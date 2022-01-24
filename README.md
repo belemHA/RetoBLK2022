@@ -22,7 +22,7 @@ Este prototipo es por el que optamos para brindar la funcionalidad y vista de la
 
 Prototipo Final
 Screenshot
-![image](https://user-images.githubusercontent.com/68892787/150735849-6797df4a-9102-47d8-9acf-ecf3e30c4bec.png)
+![image](https://user-images.githubusercontent.com/68892787/150736023-16d337e1-28c6-40fc-8a71-b6bd62e65398.png)
 
 3. Historias de usuario
 *Historia de Usuario 1: S
