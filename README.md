@@ -1,8 +1,8 @@
 # RetoBLK2022
  Squad 4- Ojos
-Ana 
+Anita Aguilar
 Dani Torrel 
-Angy Venta ,
+Angelica Venta 
 Belem Hernandez
 
 1. BlackRock
