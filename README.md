@@ -2,8 +2,8 @@
 
 ##Squad 4... Ojos
 <ul>
-  <li>Integrantes</li>
-  <li>Anita Aguilar</li>
+  <li>Integrantes:</li>
+  <li>*Anita Aguilar*</li>
   <li>Colette Ordoñez</li>
   <li>Daniela Torrel <li>
   <li>Angelica Venta </li>
@@ -19,7 +19,7 @@ Este proyecto tiene la finalidad solucionar la problemática de Actualmente nues
 
 https://www.figma.com/file/WuY6svf3tpRThbA9UF7TjM/Reto-BLK?node-id=0%3A1
 
-![Propuesta Uno] (https://belemHA/RetoBLK2022/main/propuestauno.png)
+![Propuesta Uno] (/main/propuestauno.png)
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 Este prototipo es por el que optamos para brindar la funcionalidad y vista de la paginas diferente páginas que conforman nuestra aplicación.
