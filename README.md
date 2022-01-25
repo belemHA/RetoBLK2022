@@ -19,16 +19,19 @@ Este proyecto tiene la finalidad solucionar la problemática de Actualmente nues
 
 https://www.figma.com/file/WuY6svf3tpRThbA9UF7TjM/Reto-BLK?node-id=0%3A1
 
-![Propuesta Uno] (https://github.com/belemHA/RetoBLK2022/blob/main/propuestauno.png)
+![Propuesta Uno] (https://belemHA/RetoBLK2022/main/propuestauno.png)
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 Este prototipo es por el que optamos para brindar la funcionalidad y vista de la paginas diferente páginas que conforman nuestra aplicación.
+
+
 
 Prototipo Final
 [Propuesta dos] https://github.com/belemHA/RetoBLK2022/blob/main/propuestaDos.pngase-octocat.svg)
 
 
 ![image](https://www.figma.com/file/WuY6svf3tpRThbA9UF7TjM/Reto-BLK?node-id=0%3A1)
+![image](https://user-images.githubusercontent.com/68892787/150913818-20312efd-5338-4680-8a4e-ff35ae83e13f.png)
 
 
 3. Historias de usuario
